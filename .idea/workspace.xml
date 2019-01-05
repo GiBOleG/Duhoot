@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34b1182d-594b-4bf4-9c9a-ab44c29cf2df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23">
-                  <caret line="117" column="3" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+                <state relative-caret-position="115">
+                  <caret line="173" column="40" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -42,8 +44,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="479">
-                  <caret line="761" column="25" selection-start-line="761" selection-start-column="25" selection-end-line="761" selection-end-column="25" />
+                <state relative-caret-position="119">
+                  <caret line="792" column="5" selection-start-line="792" selection-start-column="5" selection-end-line="792" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -72,10 +74,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="269" />
-    <option name="y" value="-28" />
-    <option name="width" value="812" />
-    <option name="height" value="612" />
+    <option name="x" value="382" />
+    <option name="y" value="-15" />
+    <option name="width" value="683" />
+    <option name="height" value="628" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,6 +102,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -141,17 +144,27 @@
       <workItem from="1546367856063" duration="10123000" />
       <workItem from="1546447434505" duration="84441000" />
       <workItem from="1546686769470" duration="2394000" />
-      <workItem from="1546691879570" duration="189000" />
+      <workItem from="1546691879570" duration="1028000" />
+      <workItem from="1546693873863" duration="9534000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1546692245251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546692245254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128748000" />
+    <option name="totallyTimeSpent" value="139035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2313988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12723215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,18 +186,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13018">
-          <caret line="566" column="44" selection-start-line="566" selection-start-column="44" selection-end-line="566" selection-end-column="44" />
+        <state relative-caret-position="115">
+          <caret line="173" column="40" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="792" column="5" selection-start-line="792" selection-start-column="5" selection-end-line="792" selection-end-column="5" />
         </state>
       </provider>
     </entry>
