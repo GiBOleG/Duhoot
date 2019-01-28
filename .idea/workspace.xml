@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34b1182d-594b-4bf4-9c9a-ab44c29cf2df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +20,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1995">
+                <state relative-caret-position="4002">
                   <caret line="174" column="55" selection-start-line="174" selection-start-column="55" selection-end-line="174" selection-end-column="55" />
                 </state>
               </provider>
@@ -84,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +95,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,7 +144,11 @@
       <workItem from="1546686769470" duration="2394000" />
       <workItem from="1546691879570" duration="1028000" />
       <workItem from="1546693873863" duration="9806000" />
-      <workItem from="1546962977139" duration="2307000" />
+      <workItem from="1546962977139" duration="2631000" />
+      <workItem from="1547047401487" duration="13000" />
+      <workItem from="1547047848984" duration="585000" />
+      <workItem from="1547115810270" duration="13000" />
+      <workItem from="1547195370710" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1546692245251</created>
@@ -161,15 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546703735315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fourth commit">
+      <created>1546965450567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546965450567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141614000" />
+    <option name="totallyTimeSpent" value="143211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12723215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,12 +207,13 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
+        <state relative-caret-position="4002">
           <caret line="174" column="55" selection-start-line="174" selection-start-column="55" selection-end-line="174" selection-end-column="55" />
         </state>
       </provider>
