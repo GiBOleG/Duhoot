@@ -203,7 +203,7 @@ table {
     background-color: #e94e38;
     border: none;
     border-radius: 30px;
-    box-shadow: 0 6px #999;
+    box-shadow: 0 5px #bf3a27;
     margin-bottom: 40px;
 }
 .search_btn:hover {background-color: #c74230}
@@ -486,7 +486,7 @@ table {
     color: #e94e38;
 }
 .offering {
-    color: #566375;
+    color: #96a6a7;
     font-family: 'Montserrat', sans-serif;
     display: flex;
     align-items: center;
@@ -497,35 +497,42 @@ table {
     margin-bottom: 15px;
     font-size: 24px;
 }
+.offering_icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 60px;
+}
+.offering_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+    border: 2px solid #96a6a7;
+}
+.offering_icon:hover{
+    border: 2px solid #1db05e;
+}
+.offering_icon i{
+    color: #96a6a7;
+    font-size: 40px;
+}
+.offering_icon i:hover{
+    color: #1db05e;
+}
 .offering h4 {
     margin-bottom: 15px;
     font-size: 16px;
 }
-.offering_icons {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    margin-top: 70px;
-}
-.offering_icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid #9dacad;
-    border-radius: 100%;
-    width: 100px;
-    height: 100px;
-    margin: 0 28px;
-}
-.offering_icon:hover {
-    border: 2px solid #1db05e;
-    background-color: #18cf69;
-}
-.offering_icon img {
-    width: 40%;
-    height: 40%;
+span.one {
+    height: 2px;
+    width: 50px;
+    display: block;
+    background: #DFDFDF;
+    margin: 10px;
 }
 .offering h3 {
     margin-top: 35px;
@@ -616,7 +623,7 @@ table {
     background-color: #e94e38;
     border: none;
     border-radius: 30px;
-    box-shadow: 0 6px #999;
+    box-shadow: 0 5px #bf3a27;
     margin-top: -3px;
     margin-bottom: 5px;
 }
